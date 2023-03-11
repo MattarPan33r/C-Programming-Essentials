@@ -1,5 +1,4 @@
 #include<stdio.h>
-int checker(int i);
 int main()
 {
     int i, num, tmp =0;
